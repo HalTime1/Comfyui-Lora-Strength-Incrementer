@@ -17,3 +17,9 @@ You can set "increment_step" to a negative number while keeping "control_after_g
 Now auto-queue away!
 
 If you want to temporarily not use the incrementer, set "increment_step" to 0 and use "start_strength" to change the strength.
+
+Example video:
+https://www.reddit.com/r/comfyui/comments/1hsbz2b/lora_strength_incrementer_custom_node/
+
+This link also contains a comment suggesting using "queue trigger (countdown)" from impactpack.
+Go give them an upvote!
